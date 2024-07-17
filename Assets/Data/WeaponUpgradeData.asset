@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc9ebb18bf17441fb8dec5d78c03019f, type: 3}
+  m_Name: WeaponUpgradeData
+  m_EditorClassIdentifier: 
+  upgradeDada:
+  - <WeaponDataConfig>k__BackingField: {fileID: 11400000, guid: 44894533ceb332f43a87b96cddf290ec, type: 2}
+    <Level>k__BackingField: 1
